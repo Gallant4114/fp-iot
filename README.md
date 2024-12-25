@@ -163,3 +163,5 @@ void loop() {
   delay(2000);    // Tunggu 2 detik sebelum pembacaan berikutnya
 }
 ```
+
+## Dokumentasi
