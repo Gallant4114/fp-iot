@@ -165,3 +165,5 @@ void loop() {
 ```
 
 ## Dokumentasi
+1. foto
+2. 
