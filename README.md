@@ -166,4 +166,5 @@ void loop() {
 
 ## Dokumentasi
 1. foto
-2. 
+2. foto
+3. foto
