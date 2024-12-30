@@ -168,3 +168,5 @@ void loop() {
 1. foto
 2. foto
 3. foto
+
+4. 
