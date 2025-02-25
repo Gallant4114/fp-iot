@@ -32,7 +32,7 @@ char pass[] = "1sampai8";
 Adafruit_SSD1306 display(OLED_WIDTH, OLED_HEIGHT);
 
 // Konfigurasi DHT11
-#define DHTPIN D4
+#define DHTPIN D4 //pin D4
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
@@ -73,6 +73,7 @@ void setup() {
   pinMode(BUZZER_PIN, OUTPUT);
   digitalWrite(BUZZER_PIN, LOW);
 
+//delay 1 detik
   delay(1000);
 }
 
